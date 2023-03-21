@@ -3,10 +3,10 @@
 #### College Exercise using SimpleAI and the A* Algorithm.
 
 <h3 align="center">Unsolved Maze</h3>
-<p align="center"> <img src = "/Extra_Stuff/maze_unsolved.png" width = 550> </p>
+<p align="center"> <img src = "/Extra_Stuff/maze_unsolved.png" width = 350> </p>
 
 <h2 align="center">Solved Maze</h3>
-<p align="center"> <img src = "/Extra_Stuff/maze_solved.png" width = 550> </p>
+<p align="center"> <img src = "/Extra_Stuff/maze_solved.png" width = 350> </p>
 
 <h2 align="left">Recipe</h2>
 
